@@ -1,0 +1,4 @@
+F:\sistemas\AWOP\SOLUCION AWOP\AWOP\Entidades\bin\Debug\Entidades.dll
+F:\sistemas\AWOP\SOLUCION AWOP\AWOP\Entidades\bin\Debug\Entidades.pdb
+F:\sistemas\AWOP\SOLUCION AWOP\AWOP\Entidades\obj\Debug\Entidades.dll
+F:\sistemas\AWOP\SOLUCION AWOP\AWOP\Entidades\obj\Debug\Entidades.pdb

@@ -1,0 +1,7 @@
+F:\sistemas\AWOP\SOLUCION AWOP\AWOP\Controladores\bin\Debug\Controladores.dll
+F:\sistemas\AWOP\SOLUCION AWOP\AWOP\Controladores\bin\Debug\Controladores.pdb
+F:\sistemas\AWOP\SOLUCION AWOP\AWOP\Controladores\bin\Debug\Entidades.dll
+F:\sistemas\AWOP\SOLUCION AWOP\AWOP\Controladores\bin\Debug\Entidades.pdb
+F:\sistemas\AWOP\SOLUCION AWOP\AWOP\Controladores\obj\Debug\Controladores.csprojResolveAssemblyReference.cache
+F:\sistemas\AWOP\SOLUCION AWOP\AWOP\Controladores\obj\Debug\Controladores.dll
+F:\sistemas\AWOP\SOLUCION AWOP\AWOP\Controladores\obj\Debug\Controladores.pdb

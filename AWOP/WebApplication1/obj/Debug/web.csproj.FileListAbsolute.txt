@@ -1,0 +1,20 @@
+F:\sistemas\AWOP\SOLUCION AWOP\AWOP\WebApplication1\bin\WebApplication1.dll.config
+F:\sistemas\AWOP\SOLUCION AWOP\AWOP\WebApplication1\bin\WebApplication1.dll
+F:\sistemas\AWOP\SOLUCION AWOP\AWOP\WebApplication1\bin\WebApplication1.pdb
+F:\sistemas\AWOP\SOLUCION AWOP\AWOP\WebApplication1\bin\Controladores.dll
+F:\sistemas\AWOP\SOLUCION AWOP\AWOP\WebApplication1\bin\Entidades.dll
+F:\sistemas\AWOP\SOLUCION AWOP\AWOP\WebApplication1\bin\Controladores.pdb
+F:\sistemas\AWOP\SOLUCION AWOP\AWOP\WebApplication1\bin\Entidades.pdb
+F:\sistemas\AWOP\SOLUCION AWOP\AWOP\WebApplication1\obj\Debug\web.csprojResolveAssemblyReference.cache
+F:\sistemas\AWOP\SOLUCION AWOP\AWOP\WebApplication1\obj\Debug\WebApplication1.dll
+F:\sistemas\AWOP\SOLUCION AWOP\AWOP\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Kali\Documents\GitHub\AWOV\AWOP\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Kali\Documents\GitHub\AWOV\AWOP\WebApplication1\bin\WebApplication1.dll
+C:\Users\Kali\Documents\GitHub\AWOV\AWOP\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Kali\Documents\GitHub\AWOV\AWOP\WebApplication1\bin\Controladores.dll
+C:\Users\Kali\Documents\GitHub\AWOV\AWOP\WebApplication1\bin\Entidades.dll
+C:\Users\Kali\Documents\GitHub\AWOV\AWOP\WebApplication1\bin\Controladores.pdb
+C:\Users\Kali\Documents\GitHub\AWOV\AWOP\WebApplication1\bin\Entidades.pdb
+C:\Users\Kali\Documents\GitHub\AWOV\AWOP\WebApplication1\obj\Debug\web.csprojResolveAssemblyReference.cache
+C:\Users\Kali\Documents\GitHub\AWOV\AWOP\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Kali\Documents\GitHub\AWOV\AWOP\WebApplication1\obj\Debug\WebApplication1.pdb

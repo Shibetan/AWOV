@@ -1,0 +1,75 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Estudiante.master.cs" Inherits="WebApplication1.Estudiante" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <link href="Estilos/Estudiante.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+        
+    </asp:ContentPlaceHolder>
+    
+</head>
+<body>
+    
+    
+
+    <form id="form1" runat="server">
+        
+    <div class="ContenedorPrincipal">
+
+        <div class="Cabecera">
+
+        </div>
+
+        <div class="Menu">
+            <ul id="nav">
+	            <li><a href="#">Inicio</a></li>
+	            <li><a href="#">Carreras profesionales</a>
+		            <ul>
+			            <li><a href="#">Economía</a></li>
+                        <li><a href="#">Ingeniería de Sistemas</a></li>
+			            <li><a href="#">Ingeniería Civil</a></li>
+		            </ul>
+	            </li>
+	            <li><a href="#">Test</a>
+		            <ul>
+			            <li><a href="NuevoTest.aspx">Empezar</a></li>
+			            <li><a href="#">Mis resultados</a></li>
+		            </ul>
+	           </li> 
+                <li><a href="#">Contacto</a></li>
+            </ul>
+        </div>
+             
+        
+
+
+        <div class="ContenedorPaneles">
+            <div class="PanelIzquierdo">
+                <div class="ContenedorSesion">
+                    I<strong>NTRANET</strong>
+                    <div class="Enlace">
+                        <asp:Label ID="Label1" runat="server" Text="Usuario"></asp:Label>
+                        &nbsp;&nbsp;&nbsp;&nbsp;
+                        &nbsp;<asp:TextBox ID="txtUsuario" runat="server" Height="20px" Width="106px"></asp:TextBox>
+                    </div>
+                    <div class="Enlace">
+
+                        Contraseña <asp:TextBox ID="txtContrasenia" runat="server" Height="20px" Width="105px"></asp:TextBox>
+
+                    </div>
+                </div>
+            </div>
+            <div class="ContenedorDerecho">
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    
+                </asp:ContentPlaceHolder>
+            </div>
+        </div>
+        </div>
+    </form>
+</body>
+</html>
